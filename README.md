@@ -2,10 +2,10 @@
 
 Use Serg3ant's face detector and recgonizer
 
-Buttons
+Buttons:-
 Add Face,
 Detect and recognize 
 
-Results
+Results:-
 Persons present in the scene,
 Number of faces detected
