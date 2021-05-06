@@ -7,5 +7,5 @@ Add Face,
 Detect and recognize 
 
 Results:-
-Persons present in the scene,
+Persons present in the screen,
 Number of faces detected
