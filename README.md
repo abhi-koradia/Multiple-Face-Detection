@@ -1,4 +1,4 @@
-# Multiple-Face-Detection
+# Multiple-Face-Detection with C#
 
 Use Serg3ant's face detector and recgonizer
 
